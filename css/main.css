@@ -44,7 +44,7 @@ nav ul li{
 
 nav ul li a {
     text-transform: uppercase;
-    padding-left: 80px;
+    padding-left: 50px;
     color: #727172;
     font-size: 18px;
 }
@@ -134,7 +134,7 @@ header h2 {
 
 #contact #contact-img {
     width: 500px;
-    height: 300px;
+    height: 50px;
     border: 12px solid #ffffff;
     margin: 0 50px;
     box-sizing: border-box;
@@ -192,6 +192,152 @@ contact #email-header {
 #contact ul img {
     padding-right: 40px;
 }
+
+/****** Projects Page Styles ******/
+    /****** Projects Page Header Styles ******/
+header .extra-hero {
+    background: #F9EFEF;
+    width: 30px;
+}
+
+/****** Projects Page Projects Styles ******/
+/****** Project Styles ******/
+#projects {
+    background: #f5f5f5;
+    text-align: center;
+}
+
+#projects .content-wrapper {
+     padding: 115px 0;
+    
+}
+
+#projects .project-piece {
+    float: left;
+    width: 300px;
+    padding: 0 50px;
+}
+
+#projects  h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+    padding-bottom: 40px;
+}
+
+#projects #contact .contact-image {
+        float: left;
+        width: 300px;
+        padding: 0 50px;
+    }
+ 
+
+#projects img {
+    width: 300px;
+    padding-bottom: 30px;
+}
+
+#projects h3 {
+    font-size: 24px;
+    line-height: 36px;
+    margin: 30px 0 20px 0;
+}
+
+#projects p {
+    font-size: 20px;
+    line-height: 40px;
+    text-align: left; 
+}
+
+#contact #contact-img {
+    width: 500px;
+    height: 300px;
+    border: 12px solid #ffffff;
+    margin: 0 50px;
+    box-sizing: border-box;
+}
+
+/****** Extra-hero Styling ******/
+
+.extra-hero {
+    width: 50px;
+}
+
+/****** Project Page Contact Styling ******/
+#projects .contact  {
+    background: #f9e9e9;
+}
+
+#projects .content-wrapper {
+    padding-top: 100px 0;
+}
+
+#projects .contact-image {
+    float: left;
+    width: 20px;
+    margin-top: 30px;
+}
+
+#projects #contact-img {
+     width: 500px;
+    height: 50px;
+    border: 12px solid #ffffff;
+    margin: 0 50px;
+    box-sizing: border-box;
+}
+
+#projects .contact-info {
+    float: left;
+    width: 600px;
+    padding-left: 100px;
+    box-sizing: border-box;
+}
+
+
+#projects .contact h2 {
+    font-family: 'Lora', serif;
+    font-weight: 600;
+    font-size: 36px;
+    margin-right: 30px 0;
+}
+
+#projects .contact h3 {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+#projects #email-header {
+    margin-bottom: 5px;
+}
+
+#projects #socialmedia-header {
+    margin: 20px 0 5px 0;
+}
+
+#projects #envelope {
+    padding-right: 10px;
+}
+
+#projects a {
+    text-decoration: none;
+    color: #5e5d5e;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+#projects ul {
+    margin-top: 0;
+    padding-left: 0;
+}
+
+#projects ul li {
+    display: inline-block;
+}
+
+#projects ul img {
+    padding-right: 40px;
+}
+
     
 
 
